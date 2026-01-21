@@ -1,8 +1,8 @@
 {
-  "EVENT_START_TIME": "15:00",
-  "EVENT_END_TIME": "24:00"
-
+  "start": "15:00",
+  "end": "24:00"
 }
+
 
 
 
